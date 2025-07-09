@@ -12,6 +12,6 @@ Technologies I Use:
 Ask me about DevOps roadmaps, automation scripts and Cloud Optimization
 
 How to reach me:
-- LinkedIn: (https://www.linkedin.com/in/iamhasanimam/)
+- LinkedIn: https://www.linkedin.com/in/iamhasanimam/
 - Mail : ihasanijs@gmail.com
 
