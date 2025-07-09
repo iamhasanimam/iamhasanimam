@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Hasan Imam
 
-<!--
-**iamhasanimam/iamhasanimam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Enthusiast | Linux Nerd | Cloud Explorer  
+🌍 Building with Terraform, Jenkins, Docker & Python
 
-Here are some ideas to get you started:
+🔧 Technologies I Use:
+- 🐧 Linux, Bash, PowerShell
+- ☁️ AWS, Azure, VMs
+- ⚙️ CI/CD: GitHub Actions, Jenkins
+- 🐍 Python + 🐳 Docker + K8s
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about DevOps roadmaps, automation scripts, or breaking prod 😄
+
+📫 How to reach me:
+- LinkedIn: [your-link](https://www.linkedin.com/in/iamhasanimam/)
+- Blog: [your-blog](https://yourblog.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanimam&show_icons=true&theme=radical)
