@@ -12,7 +12,6 @@
 💬 Ask me about DevOps roadmaps, automation scripts, or breaking prod 😄
 
 📫 How to reach me:
-- LinkedIn: [your-link](https://www.linkedin.com/in/iamhasanimam/)
-- Blog: [your-blog](https://yourblog.com)
+- LinkedIn: (https://www.linkedin.com/in/iamhasanimam/)
+- Mail : ihasanijs@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanimam&show_icons=true&theme=radical)
