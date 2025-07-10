@@ -13,7 +13,7 @@ I'm an experienced IT professional with 5+ years of expertise across infrastruct
 - Worked on **Azure Virtual Desktop (AVD)** & hybrid cloud setups
 
 ### 🌐 Networking & Security
-- Configured **firewalls, NAT, port forwarding**, and internal routing
+- Configured **firewalls, NAT, VPN**, and internal routing
 - Troubleshot **connectivity issues** between on-prem and cloud infra
 - Worked with **RMM tools** (ConnectWise Automate, NCentral) for endpoint monitoring
 
