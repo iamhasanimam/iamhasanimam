@@ -1,34 +1,40 @@
-# Hi there, I'm Md Hasan Imam 👋
+# Md Hasan Imam
 
-I'm an experienced IT professional with 5+ years of expertise across infrastructure support, cloud services, automation, and enterprise systems. I’ve worked in diverse roles like System Administrator, Cloud Service Engineer, and Product Support Engineer — helping businesses maintain secure, scalable, and high-performance IT environments.
-
----
-
-## 🧠 What I’ve Learned So Far
-
-### 👨‍💻 Infrastructure & System Administration
-- Managed **Windows Server environments** (Active Directory, DNS, DHCP, GPO)
-- Deployed and maintained **VMware ESXi hosts** and **virtualized labs**
-- Configured **file servers, RDP environments**, and **internal LAN setups**
-- Worked on **Azure Virtual Desktop (AVD)** & hybrid cloud setups
-
-### 🌐 Networking & Security
-- Configured **firewalls, NAT, VPN**, and internal routing
-- Troubleshot **connectivity issues** between on-prem and cloud infra
-- Worked with **RMM tools** (ConnectWise Automate, NCentral) for endpoint monitoring
-
-### 📦 Backup & Patch Management
-- Managed **Datto BCDR** and other backup technologies
-- Handled **patching workflows**, update rollouts, and compliance checks
-
-### 💬 Customer-Facing & Support
-- Delivered technical support across platforms like Liongard
-- Created **SOPs, RCA reports**, and provided **training** for IT teams
-- Worked with **global clients**, including onboarding, troubleshooting, and process optimization
+I am an experienced IT professional with over 5 years of expertise in infrastructure support, cloud services, automation, enterprise systems, and SaaS platform management. I have held roles as a System Administrator, Cloud Service Engineer, and Product Support Engineer, delivering secure, scalable, and high-performance IT environments for diverse business needs.
 
 ---
 
-## 📫 How to reach me:
+## Core Competencies
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/iamhasanimam/)
-- 📧 Mail: ihsanijs@gmail.com
+### Infrastructure & System Administration
+- Managed Windows Server environments including Active Directory, DNS, DHCP, and Group Policy.
+- Deployed and maintained VMware ESXi hosts and virtualized lab infrastructures.
+- Configured file servers, Remote Desktop Services environments, and internal LAN architectures.
+- Implemented and managed Azure Virtual Desktop (AVD) and hybrid cloud solutions.
+
+### Networking & Security
+- Configured and maintained firewalls, NAT, VPNs, and internal routing.
+- Resolved connectivity and interoperability issues between on-premises and cloud environments.
+- Utilized RMM tools such as ConnectWise Automate and NCentral for endpoint monitoring and system management.
+
+### Backup & Patch Management
+- Administered Datto BCDR and other enterprise backup platforms.
+- Managed patching workflows, security updates, and compliance-driven rollouts.
+
+### SaaS Platform Expertise — Liongard
+- Administered and optimized the Liongard infrastructure intelligence platform.
+- Integrated Liongard with Microsoft 365, Active Directory, DNS, SSL, and RMM toolsets.
+- Developed automation and analytics using Liongard’s API and JMESPath queries.
+- Delivered data-driven insights for compliance, security posture, and IT documentation.
+- Provided onboarding, training, and best-practice advisory to MSP partners.
+
+### Client Engagement & Support
+- Delivered enterprise-level technical support for SaaS and on-premises platforms.
+- Authored Standard Operating Procedures (SOPs), Root Cause Analyses (RCAs), and technical documentation.
+- Collaborated with global clients on onboarding, troubleshooting, and process optimization initiatives.
+
+---
+
+## Contact
+- LinkedIn: [linkedin.com/in/iamhasanimam](https://www.linkedin.com/in/iamhasanimam/)
+- Email: ihsanijs@gmail.com
