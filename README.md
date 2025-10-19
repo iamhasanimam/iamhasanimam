@@ -9,13 +9,13 @@ I am a Cloud & DevOps Engineer with 5+ years of experience designing, deploying,
 ## 🔹 Core Competencies
 
 ### ☁️ Cloud & Infrastructure (AWS / Azure / Hybrid)
-- Designed and maintained secure VPC-based architectures with IAM and VPN routing
+- Designed and maintained secure VPC-based architectures with IAM
 - Built and managed virtualized infrastructure using VMware ESXi
 - Configured DNS, DHCP, Active Directory, CA, and Azure Virtual Desktop (AVD)
-- Migrated/onboarded workloads across on-prem → cloud
+- Onboarded workloads across on-prem → cloud
 
 ### 🐳 Containerization & Automation
-- Dockerized backend services and multi-container deployment patterns
+- Dockerized micro services and multi-container deployment patterns
 - PowerShell-based infra automation; expanding toward Terraform & Ansible
 - Familiarity with CI/CD fundamentals and Git-based delivery pipelines
 
@@ -25,12 +25,12 @@ I am a Cloud & DevOps Engineer with 5+ years of experience designing, deploying,
 - Practical understanding of secure connectivity in hybrid infra
 
 ### 📊 Monitoring, Observability & RMM
-- Experience with endpoint visibility and automation using ConnectWise & N-Central
+- Experience with endpoint visibility and automation using ConnectWise Automate
 - CloudWatch-style observability workflows via Liongard intelligence platform
 - Implemented backup integrity checks, patch lifecycles, and reporting
 
 ### ⚙️ DevOps Tooling & Scripting
-- PowerShell automation for provisioning, audits, and infra workflows
+- PowerShell automation for provisoning, auidits, and infra workflows
 - API integrations with JSON/JMESPath for real-time insights
 - Solid foundation to extend into Python/Bash/Terraform
 
