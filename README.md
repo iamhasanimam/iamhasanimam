@@ -2,7 +2,7 @@
 
 **Cloud & DevOps | Infrastructure Automation | AWS | Containers | Observability**
 
-I am a Cloud & DevOps Engineer with 5+ years of experience designing, deploying, and supporting secure infrastructure across on-prem and cloud environments. I specialize in automation, infrastructure-as-code, containerization, and scalable system design. I have a strong background in Windows/Linux administration, VMware, Azure, and SaaS platforms — now transitioning that skillset toward AWS-native, containerized, and production-grade DevOps architectures.
+Using expertise gained in Virualization Networking-Cloud to apply the services deployement on AWS Cloud using Containerisation-Orchestration-CICD-Monitoring
 
 ---
 
