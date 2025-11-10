@@ -8,7 +8,7 @@ Turning deep, hands-on experience in Linux, Networking, Virtualization, and Clou
 
 ##  Core Competencies
 
-###  Linux Systems & DevOps Foundations
+###  Linux Systems
 
 - Daily-driver Linux practitioner: shell scripting, systemd, journald, permissions, users/groups, sudo, SSH, logs
 - Built services from scratch: Nginx, Docker daemon, firewall rules, iptables/NAT, system resource monitoring
@@ -16,7 +16,7 @@ Turning deep, hands-on experience in Linux, Networking, Virtualization, and Clou
 - Strong understanding of OSI layers, packet flow, veth pairs, bridges, namespaces, VXLAN (overlay), DNS resolution
 - Applied Linux-first thinking in all DevOps projects (EC2 hardening, container networking, SSL, log pipelines)
 
-###  Cloud & Infrastructure (AWS / Azure / Hybrid)
+###  Cloud & Infrastructure (AWS)
 
 - Designed & deployed secure multi-AZ VPCs with public/private subnets, IGW, NAT, routing, NACLs & SG architecture
 - Built EC2-based Docker host clusters with ALB (HTTPS/ACM), Route 53 domain routing, and autoscaling patterns
@@ -50,7 +50,7 @@ Turning deep, hands-on experience in Linux, Networking, Virtualization, and Clou
 - Hands-on experience with JSON/JMESPath transformations for Liongard + API integrations
 - Implemented startup scripts, health checks, cron tasks, and zero-downtime deployment logic
 
-###  SaaS Intelligence Platform (Liongard)
+###  SaaS Intelligence Platform (Liongard) Exposure for 2 years
 
 - Automated MSP ops across AD, DNS, SSL, M365, Azure, firewalls, and endpoints
 - Built dashboards using Liongard API + JMESPath to deliver deep insights
