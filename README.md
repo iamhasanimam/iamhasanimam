@@ -2,7 +2,7 @@
 
 **Cloud & DevOps | Linux + AWS Infrastructure | Containers | Automation | Observability**
 
-Turning deep, hands-on experience in Linux, Networking, Virtualization, and Cloud into production-grade deployments across EC2, Docker, VPC, SSL, CI/CD, monitoring pipelines, and full-stack microservices.
+Turning deep, hands-on experience in Linux, Networking, Virtualization, and Cloud into production-grade deployments across EC2, ECS, Docker, VPC, SSL, CI/CD, monitoring pipelines, and multi microservices.
 
 ---
 
